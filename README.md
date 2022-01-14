@@ -1,3 +1,5 @@
-# kakao-clone
+# Kokoa-Clone 2019
 
-Kakao Desktop App Clone
+노마드 코더 학습을 위한 연습 프로젝트
+HTML, CSS를 이용해 카카오톡 데스크톱 앱의 모양새를 따라 만들어보았다.
+2019년 버전
